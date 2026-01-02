@@ -1,4 +1,5 @@
-
+## 👋 About Me: 
+I’m Suraj Macchindra Ugale, an AWS & DevOps Engineer with hands-on experience in designing, automating, and managing scalable cloud infrastructure. I specialize in CI/CD pipelines, Infrastructure as Code, Linux administration, and containerized deployments using AWS, Docker, Kubernetes, Terraform, and Ansible.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suraj-ugale-63b899301/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surajugale2804@gmail.com) 
 
