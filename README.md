@@ -19,7 +19,7 @@ I’m Suraj Macchindra Ugale, an AWS & DevOps Engineer with hands-on experience 
 ---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-ugale-63b899301/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surajugale2804@gmail.com) 
-
+---
 # 💻 Tools & Technologies:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
@@ -33,7 +33,7 @@ I’m Suraj Macchindra Ugale, an AWS & DevOps Engineer with hands-on experience 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ## 
-
+---
 - 🚀 **DevOps Stack:** Jenkins, Docker, Kubernetes, Terraform, Ansible  
 - ☁️ **Cloud Platforms:** AWS  
 - 📊 **Monitoring:** Prometheus, Grafana, CloudWatch  
