@@ -1,5 +1,24 @@
-## 👋 About Me: 
+![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
+
+<h1 align="center">Hi 👋, I'm Suraj Ugale from India 🇮🇳</h1>
+
+<h3 align="center">
+ DevOps & Cloud Engineer | Automating Infrastructure 
+</h3>
+
+<img align="right" alt="DevOps Automation" width="380" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=amanpathak-devops&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<h2>👨‍💻 About Me</h2>
+
 I’m Suraj Macchindra Ugale, an AWS & DevOps Engineer with hands-on experience in designing, automating, and managing scalable cloud infrastructure. I specialize in CI/CD pipelines, Infrastructure as Code, Linux administration, and containerized deployments using AWS, Docker, Kubernetes, Terraform, and Ansible.
+
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-ugale-63b899301/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surajugale2804@gmail.com) 
 
